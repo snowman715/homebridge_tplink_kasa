@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-tplink-smarthome",
+  "name": "homebridge_tplink_kasa",
   "displayName": "Homebridge TPLink Smarthome",
   "version": "6.4.0",
   "description": "TPLink Smarthome plugin for Homebridge",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/plasticrake/homebridge-tplink-smarthome.git"
+    "url": "git://github.com/snowman715/homebridge_tplink_kasa.git"
   },
   "funding": {
     "type": "github",
