@@ -182,7 +182,7 @@ export const defaultConfig: TplinkSmarthomeConfigDefault = {
 
   discoveryPort: 0,
   broadcast: '255.255.255.255',
-  pollingInterval: 10,
+  pollingInterval: 10000,
   deviceTypes: ['bulb', 'plug'],
   macAddresses: undefined,
   excludeMacAddresses: undefined,
