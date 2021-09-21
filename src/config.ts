@@ -84,8 +84,8 @@ export interface TplinkSmarthomeConfigInput {
    */
   broadcast?: string;
   /**
-   * (seconds) How often to check device status in the background
-   * @defaultValue 10
+   * (milliseconds) How often to check device status in the background
+   * @defaultValue 10000
    */
   pollingInterval?: number;
   /**
